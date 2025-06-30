@@ -1,5 +1,5 @@
 import './App.css'
-import Header from './pages/header'
+import Header from './pages/Header'
 import Homepage2 from './pages/Homepage2'
 
 function App() {
