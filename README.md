@@ -111,13 +111,13 @@ import "reaxify-component-library/dist/reaxify-component-library.css";
 function App() {
   return (
     <>
-    !-- Default Testimonial with image  -->
+    <!-- Default Testimonial with image  -->
     <Testimonial image={profile}></Testimonial>
 
-    !-- Default Testimonial without image  -->
+    <!-- Default Testimonial without image  -->
     <Testimonial></Testimonial>
 
-    !-- Custom Testimonial with image and all the props  -->
+    <!-- Custom Testimonial with image and all the props  -->
     <Testimonial 
     image={profile} 
     name='Ali Arshad Khan' 

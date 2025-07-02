@@ -325,8 +325,9 @@ return (
           </ul>
         </div>
         <div className="home-left-bottom">
-          
+        <a href="https://github.com/Ali-Arshad-Khan/reaxify-component-library/blob/master/README.md" target="_blank">  
         <Badge>Start Using Guide</Badge>
+        </a>
         <a href="https://www.npmjs.com/package/reaxify-component-library" target="_blank">
         <Badge color='purple'>View on npm</Badge>
         </a>
@@ -363,7 +364,9 @@ return (
         </div>
         </div>
         <div className="nav-footer">
+          <a href="https://github.com/Ali-Arshad-Khan/reaxify-component-library/blob/master/README.md" target="_blank">  
           <Badge>Start Using Guide</Badge>
+          </a>
           <a href="https://www.npmjs.com/package/reaxify-component-library" target="_blank">
           <Badge color='purple'>View on npm</Badge>
           </a>
